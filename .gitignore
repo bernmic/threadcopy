@@ -1,0 +1,5 @@
+*.exe
+tc
+threadcopy
+tc*.yaml
+.vscode/
