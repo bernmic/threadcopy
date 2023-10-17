@@ -1,6 +1,6 @@
 module github.com/bernmic/threadcopy
 
-go 1.21.2
+go 1.20
 
 require (
 	github.com/alecthomas/kong v0.8.1 // indirect
